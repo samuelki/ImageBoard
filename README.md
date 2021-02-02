@@ -9,9 +9,6 @@ Technologies:
 - NodeJS
 - Express
 - MongoDB
-- AWS
-
-You may demo the app here:
-http://imageboardapp-env.wpupzzgrfp.us-east-2.elasticbeanstalk.com/
+- AWS (Elastic Beanstalk)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
